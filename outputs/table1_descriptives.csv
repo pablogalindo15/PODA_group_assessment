@@ -1,0 +1,5 @@
+Variable,Unit,Mean,SD,Median,Min,Max
+House price per unit area,"10,000 NTD/ping",37.98,13.61,38.45,7.6,117.5
+Distance to nearest MRT,m,1083.89,1262.11,492.23,23.38,6488.02
+House age,years,17.71,11.39,16.1,0.0,43.8
+Convenience stores,count,4.09,2.95,4.0,0.0,10.0
