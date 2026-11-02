@@ -1,6 +1,0 @@
-Variable,Model 1,Model 2
-MRT distance (+100 m),"-2.31 [-2.51, -2.12]","-1.84 [-2.07, -1.62]"
-House age (+1 year),—,"-0.64 [-0.84, -0.44]"
-Convenience stores (+1),—,"3.35 [2.34, 4.37]"
-Transactions,414,414
-Adjusted R²,0.565,0.631
